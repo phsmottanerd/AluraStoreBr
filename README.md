@@ -38,13 +38,4 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas:
 - **GitHub** 💻 (para versionamento e controle de código)
 
 ---
-import pandas as pd
-
-# Carrega os arquivos que você enviou manualmente no Colab
-loja1 = pd.read_csv('/content/loja_1.csv')
-loja2 = pd.read_csv('/content/loja_2.csv')
-loja3 = pd.read_csv('/content/loja_3.csv')
-loja4 = pd.read_csv('/content/loja_4.csv')
-
-# Junta tudo em um só DataFrame
-dados = pd.concat([loja1, loja2, loja3, loja4])
+plt.savefig('grafico_faturamento_por_categoria.png')  # salva o gráfico como imagem
