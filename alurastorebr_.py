@@ -254,6 +254,21 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
+# Projeto AluraStoreBr
+
+## Análise de Faturamento
+![Faturamento por Categoria](img/faturamento_por_categoria.png)
+
+## Produtos Mais Vendidos
+![Produtos Mais Vendidos](img/produtos_mais_vendidos.png)
+
+## Frete Médio por Estado
+![Frete Médio por Estado](img/frete_medio.png)
+
+## Conclusões
+Descrição das análises...
+
+
 """🛒 Relatório do Projeto AluraStoreBr — Desafio ONE Oracle + Alura
 
 🛒 Relatório do Projeto AluraStoreBr — Desafio ONE Oracle + Alura
