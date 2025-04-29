@@ -218,3 +218,14 @@ dados_frete = {
     'RN': 40.090987,
     'RO': 46.347240,
     'RR': 113.673032
+}
+
+# Gráfico de barras do frete médio por estado
+plt.figure(figsize=(10, 6))
+sns.barplot(x=list(dados_frete.keys()), y=list(dados_frete.values()), palette='Blues_d')
+plt.title('Frete Médio por Estado')
+plt.xlabel('Estado')
+plt.ylabel('Frete Médio (R$)')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
