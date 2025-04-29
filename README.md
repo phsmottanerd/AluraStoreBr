@@ -23,16 +23,6 @@ Você foi contratado como **Analista de Dados** para analisar as **4 lojas** da 
 Com essas informações, você deverá criar gráficos e um relatório para apresentar qual loja o Sr. João deve vender para investir em um novo negócio.
 
 ---
-# Projeto AluraStoreBr
-
-## Análise de Faturamento
-![Faturamento por Categoria](img/faturamento_por_categoria.png)
-
-## Produtos Mais Vendidos
-![Produtos Mais Vendidos](img/produtos_mais_vendidos.png)
-
-## Frete Médio por Estado
-![Frete Médio por Estado](img/frete_medio.png)
 
 ## Conclusões
 Descrição das análises...
