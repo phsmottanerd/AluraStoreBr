@@ -13,12 +13,16 @@ Você foi contratado como **Analista de Dados** para analisar as **4 lojas** da 
 ## 📋 **Descrição do Desafio**
 
 **O Sr. João tem 4 lojas** e você deverá realizar as seguintes análises:
+![download (4)](https://github.com/user-attachments/assets/743ef4c6-1144-43ca-8a4d-d458a95763d8)
 
 - **Faturamento Total** 📈
-- **Categorias Mais Populares** 🛒
+- **Categorias Mais Populares** 🛒![download (4)](https://github.com/user-attachments/assets/2232bbbf-b3f0-434a-9dac-fa5dc11081d0)
+
 - **Média de Avaliação dos Clientes** ⭐
-- **Produtos Mais e Menos Vendidos** 📦
-- **Custo Médio do Frete** 💸
+- **Produtos Mais e Menos Vendidos** 📦![download (3)](https://github.com/user-attachments/assets/5177781c-b9bb-4760-9294-57c579b4f3f7)
+
+- **Custo Médio do Frete** 💸![download (1)](https://github.com/user-attachments/assets/38b84b0b-1250-4586-b341-cd790ca6e83b)
+
 
 Com essas informações, você deverá criar gráficos e um relatório para apresentar qual loja o Sr. João deve vender para investir em um novo negócio.
 
@@ -38,4 +42,4 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas:
 - **GitHub** 💻 (para versionamento e controle de código)
 
 ---
-plt.savefig('grafico_faturamento_por_categoria.png')  # salva o gráfico como imagem
+
