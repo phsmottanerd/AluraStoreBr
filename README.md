@@ -38,31 +38,13 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas:
 - **GitHub** 💻 (para versionamento e controle de código)
 
 ---
-# Análise de Faturamento da AluraStore
+import pandas as pd
 
-## Faturamento por Categoria
+# Carrega os arquivos que você enviou manualmente no Colab
+loja1 = pd.read_csv('/content/loja_1.csv')
+loja2 = pd.read_csv('/content/loja_2.csv')
+loja3 = pd.read_csv('/content/loja_3.csv')
+loja4 = pd.read_csv('/content/loja_4.csv')
 
-O gráfico abaixo mostra o faturamento total por categoria de produto.
-
-![Faturamento por Categoria](imgs/faturamento_por_categoria.png)
-
-## Faturamento em Percentual (Gráfico de Pizza)
-
-Distribuição percentual do faturamento por categoria:
-
-![Faturamento Percentual](imgs/faturamento_pizza.png)
-
-## Avaliação Média por Vendedor
-
-Aqui visualizamos quais vendedores possuem melhor média de avaliação:
-
-![Avaliação por Vendedor](imgs/avaliacao_vendedores.png)
-
-## Produtos Mais Vendidos
-
-![Mais Vendidos](imgs/mais_vendidos.png)
-
-## Produtos Menos Vendidos
-
-![Menos Vendidos](imgs/menos_vendidos.png)
-
+# Junta tudo em um só DataFrame
+dados = pd.concat([loja1, loja2, loja3, loja4])
