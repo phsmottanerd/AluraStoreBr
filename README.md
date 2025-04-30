@@ -13,7 +13,6 @@ Você foi contratado como **Analista de Dados** para analisar as **4 lojas** da 
 ## 📋 **Descrição do Desafio**
 
 **O Sr. João tem 4 lojas** e você deverá realizar as seguintes análises:
-![download (4)](https://github.com/user-attachments/assets/743ef4c6-1144-43ca-8a4d-d458a95763d8)
 
 - **Faturamento Total** 📈
 - **Categorias Mais Populares** 🛒![download (4)](https://github.com/user-attachments/assets/2232bbbf-b3f0-434a-9dac-fa5dc11081d0)
